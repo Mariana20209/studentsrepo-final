@@ -6,12 +6,12 @@ import Proyectos from "../pages/Proyectos"
 import Estudiantes from "../pages/Estudiantes"
 import Administracion from "../pages/Administracion"
 import RutaProtegida from "../pages/RutaProtegida"
+import Analitica from "../pages/Analitica"
 
 
 export const routerApp = [
   { path: "/", element: <Inicio /> },
   { path: "/acceso", element: <Acceso /> },
-  
 
   {
     path: "/panel",
@@ -24,6 +24,9 @@ export const routerApp = [
       { path: "", element: <Navigate to="proyectos" /> },
       { path: "proyectos", element: <Proyectos /> },
       { path: "estudiantes", element: <Estudiantes /> },
+
+      { path: "analitica", element: <Analitica /> },
+
       {
         path: "administracion",
         element: (

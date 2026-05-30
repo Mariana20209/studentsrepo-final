@@ -50,7 +50,7 @@ function Proyectos() {
     <div style={{ padding: "24px" }}>
       <div style={{ marginBottom: "24px" }}>
         <h1>📁 Proyectos</h1>
-        <p>Explora y consulta los proyectos aprobados</p>
+        <p>Explora y consulta los proyectos de tu interés.</p>
       </div>
 
       <input
