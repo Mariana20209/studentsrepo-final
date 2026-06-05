@@ -16,10 +16,11 @@ public class CorsConfig {
             public void addCorsMappings(CorsRegistry registry) {
 
                 registry.addMapping("/api/**")
-                        .allowedOrigins(
-                                "http://localhost:5173",
-                                "https://studentsrepo-final-delta.vercel.app"
-                        )
+                        .allowedOriginPatterns(
+    "http://localhost:5173",
+    "https://studentsrepo-final*.vercel.app",
+    "https://*.vercel.app"
+)
                         .allowedMethods(
                                 "GET",
                                 "POST",
