@@ -1,0 +1,22 @@
+﻿id,titulo,area,estado,estudiante,fecha,mes,mes_num
+1,Aplicación de Videoclases,Desarrollo de Software,Aprobado,Mariana Suárez,2026-05-01,May 2026,2026-05
+2,Aplicación de Tutorías,Servicio al Cliente,Aprobado,Viadis Correa,2026-05-05,May 2026,2026-05
+3,Aplicación de Gestión de Tareas,Gestión de Proyectos,Aprobado,Santiago Uribe,2026-05-08,May 2026,2026-05
+4,Repositorio de Proyectos Universitarios,Gestión Documental,Aprobado,Mariana Suárez,2026-05-10,May 2026,2026-05
+5,Sistema de Notificaciones Académicas,Servicio al Cliente,Aprobado,Viadis Correa,2026-05-12,May 2026,2026-05
+6,Aplicación de Biblioteca Virtual,Administración,Aprobado,Sebastian Urrego,2026-05-15,May 2026,2026-05
+7,Gestor de Horarios Universitarios,Logística y Operaciones,Aprobado,Esteban Castillo,2026-05-20,May 2026,2026-05
+8,Sistema de Gestión Académica,Administración,Aprobado,Kevin Gómez,2026-05-25,May 2026,2026-05
+9,Plataforma de Cursos Virtuales,Tecnología Educativa,Aprobado,Daniel Castro,2026-05-27,May 2026,2026-05
+10,Repositorio de Proyectos Universitarios,Desarrollo de Software,Aprobado,Daniel Castro,2026-05-27,May 2026,2026-05
+11,Aplicación de Gestión de Tareas,Productividad,Aprobado,Andrés Torres,2026-05-27,May 2026,2026-05
+12,Repositorio de Investigaciones,Investigación Académica,Aprobado,Valentina Rojas,2026-05-27,May 2026,2026-05
+13,Aplicación de Biblioteca Virtual,Tecnología Educativa,Aprobado,Miguel Herrera,2026-05-27,May 2026,2026-05
+14,Sistema de Registro de Estudiantes,Gestión Académica,Aprobado,Mariana Suárez,2026-05-27,May 2026,2026-05
+15,Sistema de Gestión de Docentes,Gestión Educativa,Aprobado,Mariana Suárez,2026-05-27,May 2026,2026-05
+16,Aplicación de Tutorías,Tecnología Educativa,Aprobado,Mariana Suárez,2026-05-27,May 2026,2026-05
+17,Sistema de Gestión Académica,Gestión Académica,Aprobado,Mariana Suárez,2026-05-27,May 2026,2026-05
+18,proyectos,Desarrollo de Software,Rechazado,Mariana Suárez,2026-05-29,May 2026,2026-05
+19,proyecto,Desarrollo de Software,Pendiente,Mariana Suárez,2026-05-29,May 2026,2026-05
+20,Sistema de Registro de Estudiantes,Desarrollo de Software,Aprobado,Mariana Suárez,2026-05-29,May 2026,2026-05
+21,mariana,Desarrollo de Software,Pendiente,Estudiante,2026-06-02,June 2026,2026-06

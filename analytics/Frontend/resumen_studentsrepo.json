@@ -1,0 +1,359 @@
+{
+    "kpis": {
+        "total_proyectos": 21,
+        "aprobados": 18,
+        "pendientes": 2,
+        "rechazados": 1,
+        "tasa_aprobacion": 85.7,
+        "total_estudiantes": 11
+    },
+    "por_estado": [
+        {
+            "estado": "Aprobado",
+            "cantidad": 18
+        },
+        {
+            "estado": "Pendiente",
+            "cantidad": 2
+        },
+        {
+            "estado": "Rechazado",
+            "cantidad": 1
+        }
+    ],
+    "por_area": [
+        {
+            "area": "Desarrollo de Software",
+            "cantidad": 6
+        },
+        {
+            "area": "Tecnología Educativa",
+            "cantidad": 3
+        },
+        {
+            "area": "Administración",
+            "cantidad": 2
+        },
+        {
+            "area": "Gestión Académica",
+            "cantidad": 2
+        },
+        {
+            "area": "Servicio al Cliente",
+            "cantidad": 2
+        },
+        {
+            "area": "Gestión Documental",
+            "cantidad": 1
+        },
+        {
+            "area": "Gestión Educativa",
+            "cantidad": 1
+        },
+        {
+            "area": "Investigación Académica",
+            "cantidad": 1
+        },
+        {
+            "area": "Gestión de Proyectos",
+            "cantidad": 1
+        },
+        {
+            "area": "Productividad",
+            "cantidad": 1
+        },
+        {
+            "area": "Logística y Operaciones",
+            "cantidad": 1
+        }
+    ],
+    "top_estudiantes": [
+        {
+            "estudiante": "Mariana Suárez",
+            "proyectos": 9
+        },
+        {
+            "estudiante": "Viadis Correa",
+            "proyectos": 2
+        },
+        {
+            "estudiante": "Daniel Castro",
+            "proyectos": 2
+        },
+        {
+            "estudiante": "Esteban Castillo",
+            "proyectos": 1
+        },
+        {
+            "estudiante": "Andrés Torres",
+            "proyectos": 1
+        },
+        {
+            "estudiante": "Kevin Gómez",
+            "proyectos": 1
+        },
+        {
+            "estudiante": "Estudiante",
+            "proyectos": 1
+        },
+        {
+            "estudiante": "Miguel Herrera",
+            "proyectos": 1
+        },
+        {
+            "estudiante": "Santiago Uribe",
+            "proyectos": 1
+        },
+        {
+            "estudiante": "Sebastian Urrego",
+            "proyectos": 1
+        }
+    ],
+    "aprobados_por_area": [
+        {
+            "area": "Desarrollo de Software",
+            "aprobados": 3
+        },
+        {
+            "area": "Tecnología Educativa",
+            "aprobados": 3
+        },
+        {
+            "area": "Administración",
+            "aprobados": 2
+        },
+        {
+            "area": "Gestión Académica",
+            "aprobados": 2
+        },
+        {
+            "area": "Servicio al Cliente",
+            "aprobados": 2
+        },
+        {
+            "area": "Gestión Documental",
+            "aprobados": 1
+        },
+        {
+            "area": "Gestión Educativa",
+            "aprobados": 1
+        },
+        {
+            "area": "Investigación Académica",
+            "aprobados": 1
+        },
+        {
+            "area": "Gestión de Proyectos",
+            "aprobados": 1
+        },
+        {
+            "area": "Productividad",
+            "aprobados": 1
+        },
+        {
+            "area": "Logística y Operaciones",
+            "aprobados": 1
+        }
+    ],
+    "por_mes": [
+        {
+            "mes_num": "2026-05",
+            "cantidad": 20
+        },
+        {
+            "mes_num": "2026-06",
+            "cantidad": 1
+        }
+    ],
+    "datos_limpios": [
+        {
+            "id": 1,
+            "titulo": "Aplicación de Videoclases",
+            "area": "Desarrollo de Software",
+            "estado": "Aprobado",
+            "estudiante": "Mariana Suárez",
+            "fecha": "2026-05-01 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 2,
+            "titulo": "Aplicación de Tutorías",
+            "area": "Servicio al Cliente",
+            "estado": "Aprobado",
+            "estudiante": "Viadis Correa",
+            "fecha": "2026-05-05 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 3,
+            "titulo": "Aplicación de Gestión de Tareas",
+            "area": "Gestión de Proyectos",
+            "estado": "Aprobado",
+            "estudiante": "Santiago Uribe",
+            "fecha": "2026-05-08 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 4,
+            "titulo": "Repositorio de Proyectos Universitarios",
+            "area": "Gestión Documental",
+            "estado": "Aprobado",
+            "estudiante": "Mariana Suárez",
+            "fecha": "2026-05-10 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 5,
+            "titulo": "Sistema de Notificaciones Académicas",
+            "area": "Servicio al Cliente",
+            "estado": "Aprobado",
+            "estudiante": "Viadis Correa",
+            "fecha": "2026-05-12 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 6,
+            "titulo": "Aplicación de Biblioteca Virtual",
+            "area": "Administración",
+            "estado": "Aprobado",
+            "estudiante": "Sebastian Urrego",
+            "fecha": "2026-05-15 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 7,
+            "titulo": "Gestor de Horarios Universitarios",
+            "area": "Logística y Operaciones",
+            "estado": "Aprobado",
+            "estudiante": "Esteban Castillo",
+            "fecha": "2026-05-20 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 8,
+            "titulo": "Sistema de Gestión Académica",
+            "area": "Administración",
+            "estado": "Aprobado",
+            "estudiante": "Kevin Gómez",
+            "fecha": "2026-05-25 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 9,
+            "titulo": "Plataforma de Cursos Virtuales",
+            "area": "Tecnología Educativa",
+            "estado": "Aprobado",
+            "estudiante": "Daniel Castro",
+            "fecha": "2026-05-27 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 10,
+            "titulo": "Repositorio de Proyectos Universitarios",
+            "area": "Desarrollo de Software",
+            "estado": "Aprobado",
+            "estudiante": "Daniel Castro",
+            "fecha": "2026-05-27 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 11,
+            "titulo": "Aplicación de Gestión de Tareas",
+            "area": "Productividad",
+            "estado": "Aprobado",
+            "estudiante": "Andrés Torres",
+            "fecha": "2026-05-27 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 12,
+            "titulo": "Repositorio de Investigaciones",
+            "area": "Investigación Académica",
+            "estado": "Aprobado",
+            "estudiante": "Valentina Rojas",
+            "fecha": "2026-05-27 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 13,
+            "titulo": "Aplicación de Biblioteca Virtual",
+            "area": "Tecnología Educativa",
+            "estado": "Aprobado",
+            "estudiante": "Miguel Herrera",
+            "fecha": "2026-05-27 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 14,
+            "titulo": "Sistema de Registro de Estudiantes",
+            "area": "Gestión Académica",
+            "estado": "Aprobado",
+            "estudiante": "Mariana Suárez",
+            "fecha": "2026-05-27 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 15,
+            "titulo": "Sistema de Gestión de Docentes",
+            "area": "Gestión Educativa",
+            "estado": "Aprobado",
+            "estudiante": "Mariana Suárez",
+            "fecha": "2026-05-27 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 16,
+            "titulo": "Aplicación de Tutorías",
+            "area": "Tecnología Educativa",
+            "estado": "Aprobado",
+            "estudiante": "Mariana Suárez",
+            "fecha": "2026-05-27 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 17,
+            "titulo": "Sistema de Gestión Académica",
+            "area": "Gestión Académica",
+            "estado": "Aprobado",
+            "estudiante": "Mariana Suárez",
+            "fecha": "2026-05-27 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 18,
+            "titulo": "proyectos",
+            "area": "Desarrollo de Software",
+            "estado": "Rechazado",
+            "estudiante": "Mariana Suárez",
+            "fecha": "2026-05-29 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 19,
+            "titulo": "proyecto",
+            "area": "Desarrollo de Software",
+            "estado": "Pendiente",
+            "estudiante": "Mariana Suárez",
+            "fecha": "2026-05-29 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 20,
+            "titulo": "Sistema de Registro de Estudiantes",
+            "area": "Desarrollo de Software",
+            "estado": "Aprobado",
+            "estudiante": "Mariana Suárez",
+            "fecha": "2026-05-29 00:00:00",
+            "mes": "May 2026"
+        },
+        {
+            "id": 21,
+            "titulo": "mariana",
+            "area": "Desarrollo de Software",
+            "estado": "Pendiente",
+            "estudiante": "Estudiante",
+            "fecha": "2026-06-02 00:00:00",
+            "mes": "June 2026"
+        }
+    ]
+}
