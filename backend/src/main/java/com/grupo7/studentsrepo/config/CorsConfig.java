@@ -18,8 +18,7 @@ public class CorsConfig {
                 registry.addMapping("/api/**")
                         .allowedOrigins(
                                 "http://localhost:5173",
-                                "https://studentsrepo-proyecto-integrador-fi.vercel.app",
-                                "https://studentsrepo-proyecto-integrador-fi-wheat.vercel.app"
+                                "https://studentsrepo-final-delta.vercel.app"
                         )
                         .allowedMethods(
                                 "GET",
