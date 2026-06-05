@@ -1,4 +1,4 @@
-const URL_BASE = "http://localhost:10000"
+const URL_BASE = "https://studentsrepo-final.onrender.com"
 
 export const puntos_finales = {
   admins: `${URL_BASE}/api/admins`,

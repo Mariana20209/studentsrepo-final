@@ -23,7 +23,7 @@ function Proyectos() {
   const cargarProyectos = async () => {
     try {
       // Cargar del backend
-      const respuestaBackend = await fetch("http://localhost:10000/api/proyectos")
+      const respuestaBackend = await fetch("https://studentsrepo-final.onrender.com/api/proyectos")
       const datosBackend = await respuestaBackend.json()
 
       // Cargar del JSON local
@@ -59,7 +59,7 @@ function Proyectos() {
     }
 
     try {
-      await fetch("http://localhost:10000/api/proyectos", {
+      await fetch("https://studentsrepo-final.onrender.com/api/proyectos", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(nuevoProyecto)
